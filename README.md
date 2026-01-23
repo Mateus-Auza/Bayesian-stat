@@ -1,4 +1,4 @@
-## Data Assess 
+## Data Access 
 
 Dataset is  included in the file Hospital.visits.txt
 
