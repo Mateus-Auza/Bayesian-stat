@@ -73,29 +73,29 @@ $$
 
 where
 
-\[
+$$
 \eta_i = \beta_0 + \beta_1 Age_i + \beta_2 Chronic_i
-\]
+$$
 
 ### Prior Distributions
 
 Regression coefficients:
 
-\[
+$$
 \beta_j \sim N(0,100)
-\]
+$$
 
 Hospital-specific effects:
 
-\[
+$$
 v_g \sim \text{Gamma}(\alpha,\alpha)
-\]
+$$
 
 Hyperparameter:
 
-\[
+$$
 \alpha \sim \text{Gamma}(a_0,b_0)
-\]
+$$
 
 ---
 
