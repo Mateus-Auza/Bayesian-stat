@@ -22,7 +22,7 @@ The project includes:
 ```text
 .
 ├── code/
-│   └── Bayes.R
+│   └── Bayes_code.R
 │
 ├── data/
 │   └── HospitalVisits.txt
