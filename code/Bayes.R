@@ -12,7 +12,7 @@ library(dplyr)
 
 set.seed(219)
 # Load the dataset
-data = read.table("HospitalVisits.txt", header = TRUE)
+data = read.table("data/HospitalVisits.txt", header = TRUE)
 
 # Prepare data
 n = nrow(data)
