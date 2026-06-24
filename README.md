@@ -163,7 +163,7 @@ The model was independently implemented in **JAGS** using the `rjags` package.
 ### Comparison of Fixed Effects
 
 <p align="center">
-  <img src="figures/jags_comparison_beta.png" width="700">
+  <img src="figures/jags_comparison_beta.png" width="400">
 </p>
 
 ### Comparison of Hospital Effects
