@@ -40,7 +40,7 @@ The project includes:
 │   ├── posterior_predictive.png
 │   ├── random_effects.png
 │   ├── jags_comparison_beta.png
-│   └── jags_comparsion_hospital_effects.png
+│   └── jags_comparison_hospital_effects.png
 │
 ├── report/
 │   └── Bayes_report.pdf
