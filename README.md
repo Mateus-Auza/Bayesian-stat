@@ -62,6 +62,12 @@ The dataset contains:
 
 Each observation corresponds to a single patient.
 
+## Disclaimer
+
+This project uses fictional data for academic purposes only.
+
+The data does not reflect real-world patients, hospitals, or healthcare systems.
+
 ---
 ## Statistical Model
 
